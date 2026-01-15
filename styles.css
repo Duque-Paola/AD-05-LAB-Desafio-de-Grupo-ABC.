@@ -3,9 +3,12 @@ background: #bdc3c7;
 background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  
 background: linear-gradient(to right, #2c3e50, #bdc3c7); 
 
+text-align: center;
 }
 
-
+#rojo{
+  color: red;
+}
 #verde {
   color: green;
 }
@@ -16,20 +19,17 @@ background: linear-gradient(to right, #2c3e50, #bdc3c7);
 }
 
 
-h3:last-child {
-  color: red;
-    background-color: gray;
-}
-
 h3{
     color: green;
 }
 
-.blueh3{
-    color: blue;
+.img-thumbnail {
+    width: 200px;    
+    height: auto;     
 }
 
-.redh3{
-    color: red;
-
+.equipo {
+    font-size: 5rem;
+    font-weight: bold;
+    text-align: center;
 }
