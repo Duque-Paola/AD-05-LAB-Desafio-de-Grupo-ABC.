@@ -13,3 +13,9 @@ h3{
 .redh3{
     color: red;
 }
+
+.img-thumbnail {
+    width: 200px;     /* ajusta el tamaño */
+    height: auto;     /* mantiene la proporción */
+}
+
