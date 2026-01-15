@@ -18,4 +18,18 @@ background: linear-gradient(to right, #2c3e50, #bdc3c7);
 
 h3:last-child {
   color: red;
+    background-color: gray;
+}
+
+h3{
+    color: green;
+}
+
+.blueh3{
+    color: blue;
+}
+
+.redh3{
+    color: red;
+
 }
